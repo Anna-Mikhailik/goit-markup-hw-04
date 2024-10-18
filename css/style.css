@@ -481,10 +481,13 @@ gap: 24px;
 
 
 .footer .container {
-
+  display: flex;
+  align-items: center;
 }
 
-
+.footer-text{
+  padding-right: 120px;
+}
 
 .footer-soc-list {
   display: flex;
@@ -508,11 +511,8 @@ color: #fff;
 
 .footer-soc {
   display: flex;
-  align-items: center;
-  margin-top: -100px;
-  padding-bottom: 132px;
-  margin-left: 120px;
   justify-content: center; 
+  flex-direction: column;
   
 }
 
