@@ -432,12 +432,20 @@ padding-bottom: 24;
 
 .card-soc-link:hover {
   background-color: teal;
+  
 }
 
 .card-soc {
 display: flex;
 justify-content: center;
 gap: 24px;
+}
+
+.card-soc-list {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+width: 208px;
 }
 
 /*-------------------card---------------------*/
