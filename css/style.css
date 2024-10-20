@@ -203,6 +203,7 @@ background: #f4f4fd;
 display: flex;
 align-items: center;
 margin-top: -110px;
+justify-content: center;
 }
 
 
