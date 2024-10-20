@@ -413,11 +413,11 @@ padding-bottom: 24;
 
 
 
-.card-soc-icon {
+.box-soc-icon {
   fill: white;
 }
 
-.card-soc-link {
+.box-soc-link {
   width: 40px;
   height: 40px;
   background-color: #5a4fcf;
@@ -426,16 +426,25 @@ padding-bottom: 24;
   align-items: center;
   justify-content: center;
   display:inline-block;
-
-  
 }
 
-.card-soc-link:hover {
+
+
+
+
+
+
+
+
+
+
+
+.box-soc-link:hover {
   background-color: teal;
   
 }
 
-.card-soc {
+.box-soc {
 display: flex;
 justify-content: center;
 gap: 24px;
